@@ -36,3 +36,71 @@ Application for managing daily tasks
 ``` bash
     python app.py
 ```
+
+# Zadanie 3
+
+## Student Managment System
+Application for managing student data.
+
+### Technologies
+
+| **Technology** | **Description** |
+| --- | --- |
+| Python | Backend Logic |
+| Flask | Web framework |
+| SQLite | Database |
+
+### Features
+ - Add student
+ - Edit student 
+ - Remove student
+ - Display student list
+
+ # Zadanie 4
+
+ ## Developer Portfolio
+ Personal website presenting programming projects
+
+ ### Sections
+ - About me
+ - Projects 
+ - Contact
+
+ ### Website
+ Visit the website
+ [MyWebsite](https://example.com)
+
+ ### Technologies
+ - HMTL
+ - CSS
+ - JavaScript
+
+ # Zadanie 5
+
+ ## Task Manager
+ Application for organizing daily tasks.
+ ### Features
+ - Create tasks
+ - Edit tasks
+ - Delete tasks
+ - Mark tasks as completed
+ ### Technologies
+
+ | Technology | Purpose |
+ | --- | --- |
+ | Python | Backend |
+ | Flask | Web framework |
+ | SQLite | Database |
+ | HTML | Frontend |
+
+ ### Installation 
+ ``` bash
+    git clone ...
+    cd task-manager
+``` 
+### Run
+``` bash
+    python app.py
+```
+### Author
+Jan Kowalski
